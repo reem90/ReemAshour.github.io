@@ -33,17 +33,16 @@ Skills
 * Deep Learning 
 * UAVs 
 * Robot Perception
+* Exploration and Mapping 
+* Haptics
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* S. Islam, D. Gan, R. Ashour, P. Dario, J. Dias and L. D. Seneviratne, "Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network," 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, 2017, pp. 334-339. doi: 10.1109/ICAR.2017.8023629
+* R. Ashour et al., "Site inspection drone: A solution for inspecting and regulating construction sites," 2016 IEEE 59th International Midwest Symposium on Circuits and Systems (MWSCAS), Abu Dhabi, 2016, pp. 1-4. doi: 10.1109/MWSCAS.2016.7870116
+* Islam, S.; Faraz, M.; Ashour, R.K.; Dias, J.; Seneviratne, L.D., "Robust adaptive control of quadrotor unmanned aerial vehicle with uncertainty," in Robotics and Automation (ICRA), 2015 IEEE International Conference on , vol., n., pp.1704-1709, 26-30 May 2015
+* Islam, S.; Faraz, M.; Ashour, R.K.; Cai, G.; Dias, J.; Seneviratne, L., "Adaptive sliding mode control design for quadrotor unmanned aerial vehicle," in Unmanned Aircraft Systems (ICUAS), 2015 International Conference on , vol., no., pp.34-39, 9-12 June 2015
+* R. K. Ashour, S. Islam, L. D. Seneviratne and J. Dias, Internet based bilateral teleoperation of quadrotor flying vehicle, Presented in Proc. IEEE ICECS, December 8-11, UAE, 2013.
+* Mohammad, B., Elgabra, H., Ashour, R., Saleh, H.: Portable wireless biomedical temperature monitoring system: architecture and implementation. In: Innovations in Information Technology (IIT), 2013 9th International Conference. INSPEC Accession number: 13583533, pp. 95–100
+* Ashour R., Otrok H., Al-Hammadi Y., “Draining the Battery of Android Smart-Phones”, Secure Abu Dhabi 2013, March, 2013. 
