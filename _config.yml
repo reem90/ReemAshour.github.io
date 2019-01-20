@@ -11,9 +11,9 @@ title                    : "Reem Ashour"
 title_separator          : "-"
 name                     : &name "Reem"
 description              : &description "Research associate at Khalifa University"
-url                      : https://ReemAshour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reemashour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ReemAshour.github.io"
+repository               : "reem90.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Abu Dhabi, UAE"
   employer         :
   googlescholar    : " "
-  email            : "reemashour1@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Reem_Ashour"
+  email            : reemashour1@gmail.com
+  researchgate     : https://www.researchgate.net/profile/Reem_Ashour
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/reem90/"
+  github           : reem90
   google_plus      :
   keybase          :
   instagram        :
