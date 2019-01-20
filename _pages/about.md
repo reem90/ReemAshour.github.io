@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Reem Ashour"
-excerpt: "About me"
+title: "About me"
+excerpt: "Reem Ashour"
 author_profile: true
 redirect_from: 
   - /about/
