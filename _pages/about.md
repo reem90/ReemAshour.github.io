@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Reem's account home on the web. 
+* Ph.D. in Engineering Student, Khalifa University Center for Autonomous Robotic Systems (KUCARS)
+* Teaching Associate, Electrical and Computer Engineering Department
