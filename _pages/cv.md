@@ -37,6 +37,7 @@ Skills
 
 Publications
 ======
+
 * S. Islam, P. X. Liu, A. E. Saddik, R. Ashour, J. Dias and L. D. Seneviratne, "Artificial and Virtual Impedance Interaction Force Reflection-Based Bilateral Shared Control for Miniature Unmanned Aerial Vehicle," in IEEE Transactions on Industrial Electronics, vol. 66, no. 1, pp. 329-337, Jan. 2019.
 * S. Islam, D. Gan, R. Ashour, P. Dario, J. Dias and L. D. Seneviratne, "Haptics and virtual reality based bilateral telemanipulation of miniature aerial vehicle over open communication network," 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, 2017, pp. 334-339.
 * R. Ashour et al., "Site inspection drone: A solution for inspecting and regulating construction sites," 2016 IEEE 59th International Midwest Symposium on Circuits and Systems (MWSCAS), Abu Dhabi, 2016, pp. 1-4. 
